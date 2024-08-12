@@ -1,7 +1,7 @@
 # .github
 # 👋 Hi, I'm Srinath P!
 
-![Welcome GIF]([https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTN5bmRudWtrcnY1dHAzNm05Yzhwa3ZvbmhhM2xrZHdwbnYxdTAzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif))
+![Welcome GIF]([https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTN5bmRudWtrcnY1dHAzNm05Yzhwa3ZvbmhhM2xrZHdwbnYxdTAzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif]
 
 I'm an enthusiastic software developer with a passion for full-stack development, machine learning, and cryptography. Currently pursuing an M.Tech Integrated degree in Computer Science at VIT Vellore, I enjoy building secure, scalable, and user-friendly web applications.
 
