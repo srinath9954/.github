@@ -26,6 +26,9 @@ I'm an enthusiastic software developer with a passion for full-stack development
 
 ## 🔧 Projects & Open Source
 
+### 🏨 [Hotel Recommendation Tool](https://github.com/srinath9954/HotelRecommendationTool)
+A web application utilizing Flask and web mining techniques to scrape data from Booking.com. Features sentiment analysis and data visualization to help users make informed hotel choices.
+
 ### 🔐 [CipherSafe](https://github.com/srinath9954/CipherSafe)
 A secure password management application that uses AES-128 encryption via the Fernet module in Python for safeguarding user credentials. Integrated with Firebase for authentication, it offers seamless access with Google Sign-In.
 
@@ -35,11 +38,6 @@ A MERN stack web application designed to enhance citizen interactions with local
 ### 🛒 [CartMania](https://github.com/srinath9954/cartmania)
 An e-commerce application with a focus on responsive design and user experience. Built with React, it offers a seamless shopping experience with a variety of features like product filtering, cart management, and more.
 
-### 🏨 [Hotel Recommendation Tool](https://github.com/srinath9954/HotelRecommendationTool)
-A web application utilizing Flask and web mining techniques to scrape data from Booking.com. Features sentiment analysis and data visualization to help users make informed hotel choices.
-
-### 💳 [Password Manager](https://github.com/srinath9954/Password_App)
-A user-friendly password management tool featuring AES-128 encryption and Firebase authentication. Provides secure storage and easy management of user credentials.
 
 ---
 
