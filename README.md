@@ -1,17 +1,7 @@
 # .github
 # 👋 Hi, I'm Srinath P!
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    I'm an enthusiastic software developer with a passion for full-stack development, machine learning, and cryptography. 
-    Currently pursuing an M.Tech Integrated degree in Computer Science at VIT Vellore, I enjoy building secure, scalable, 
-    and user-friendly web applications.
-  </div>
-  <div>
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTN5bmRudWtrcnY1dHAzNm05Yzhwa3ZvbmhhM2xrZHdwbnYxdTAzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
-    alt="Welcome GIF" width="250" />
-  </div>
-</div>
+I'm an enthusiastic software developer with a passion for full-stack development, machine learning, and cryptography. Currently pursuing an M.Tech Integrated degree in Computer Science at VIT Vellore, I enjoy building secure, scalable, and user-friendly web applications.
 
 ---
 
@@ -19,7 +9,7 @@
 
 - 🌱 I’m currently learning **advanced machine learning techniques** and exploring **NLP** to enhance my AI-powered projects.
 - 👯 I’m looking to collaborate on **open-source projects** related to AI, Web Development, or Security.
-- 💬 Ask me about **MERN Stack, Machine Learning**.
+- 💬 Ask me about **MERN Stack,Machine Learning**.
 - ⚡ Fun fact: I'm always excited to learn about new technologies and love to share knowledge with the community.
 
 ---
@@ -77,4 +67,6 @@ A user-friendly password management tool featuring AES-128 encryption and Fireba
 
 ---
 
+
 Let's connect and build something amazing together!
+The gif should be right aligned text in left
