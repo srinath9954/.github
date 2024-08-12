@@ -55,7 +55,7 @@ A user-friendly password management tool featuring AES-128 encryption and Fireba
 - **LinkedIn:** [linkedin.com/in/srinath-p-8ab08b227](https://www.linkedin.com/in/srinath-p-8ab08b227/)
 - **Portfolio:** [portfolio-kappa-jade-32.vercel.app](https://portfolio-kappa-jade-32.vercel.app/)
 - **Email:** [srinath.p2021@vitstudent.ac.in](mailto:srinath.p2021@vitstudent.ac.in)
-- **Email:** [instagram.com/srinath9954](https://www.instagram.com/srinath9954/)
+- **Instagram:** [instagram.com/srinath9954](https://www.instagram.com/srinath9954/)
 ---
 
 ## 📝 Certifications
