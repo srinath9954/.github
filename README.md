@@ -67,4 +67,3 @@ An e-commerce application with a focus on responsive design and user experience.
 
 
 Let's connect and build something amazing together!
-The gif should be right aligned text in left
