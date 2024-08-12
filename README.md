@@ -7,7 +7,6 @@ I'm an enthusiastic software developer with a passion for full-stack development
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[Password Manager](https://github.com/srinath9954/Password_App)** - a secure and intuitive password management application using AES-128 encryption and Firebase authentication.
 - 🌱 I’m currently learning **advanced machine learning techniques** and exploring **NLP** to enhance my AI-powered projects.
 - 👯 I’m looking to collaborate on **open-source projects** related to AI, Web Development, or Security.
 - 💬 Ask me about **MERN Stack,Machine Learning**.
