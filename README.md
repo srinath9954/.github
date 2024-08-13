@@ -51,7 +51,7 @@ An e-commerce application with a focus on responsive design and user experience.
 ## 📫 How to Reach Me
 
 - **LinkedIn:** [linkedin.com/in/srinath-p-8ab08b227](https://www.linkedin.com/in/srinath-p-8ab08b227/)
-- **Portfolio:** [portfolio-kappa-jade-32.vercel.app](https://portfolio-kappa-jade-32.vercel.app/)
+- **Portfolio:** [srinath.site](https://www.srinath.site/)
 - **Email:** [srinath.p2021@vitstudent.ac.in](mailto:srinath.p2021@vitstudent.ac.in)
 - **Instagram:** [instagram.com/srinath9954](https://www.instagram.com/srinath9954/)
 ---
